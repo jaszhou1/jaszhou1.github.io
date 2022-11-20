@@ -12,7 +12,7 @@ email: jason.sm.zhou@gmail.com
 website: https://github.com/jaszhou1
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: https://twitter.com/ArgonautZhou
@@ -44,9 +44,9 @@ content:
       
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
-    content: 
-      - A Circular Diffusion Model of Continuous-outcome Source Memory Retrieval (HTML)[https://link.springer.com/article/10.3758/s13423-020-01862-0]
-      - The Spatiotemporal Gradient of Intrusion Errors in Continuous-outcome Source Memory (PDF)[https://psyarxiv.com/kpwh4/]
+    content: |
+      - [A Circular Diffusion Model of Continuous-outcome Source Memory Retrieval: Contrasting Continuous and Thresholded Accounts] (https://link.springer.com/article/10.3758/s13423-020-01862-0)
+      - [The Spatiotemporal Gradient of Intrusion Errors in Continuous-outcome Source Memory] (https://psyarxiv.com/kpwh4/)
  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
