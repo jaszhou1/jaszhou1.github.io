@@ -12,7 +12,7 @@ email: jason.sm.zhou@gmail.com
 website: https://github.com/jaszhou1
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: https://twitter.com/ArgonautZhou
@@ -38,41 +38,37 @@ content:
   - title: Technical Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Languages: I am most skilled in <mark>R</mark> (base and tidyverse) and <mark>MATLAB</mark>, but have also worked with Python, <mark>HTML</mark>, <mark>Javascript</mark>, and <mark>SQL</mark>
-      - Other: <mark>Git</mark>, Microsoft Office, Google App Engine, online survey design and recruitment (e.g. Prolific, Amazon Mechanical Turk)
-      - Statistics: <mark>Mixed-effects modelling</mark>, factor analysis, multiple regression
+      - Languages: I am most skilled in <mark>R</mark> (base and tidyverse) and <mark>MATLAB</mark>, but have also worked with Python, HTML, Javascript, and SQL
+      - Other: Git, Microsoft Office, Google App Engine, online survey design and recruitment (e.g. Prolific, Amazon Mechanical Turk)
+      - Statistics: Mixed-effects modelling, factor analysis, multiple regression
       
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
-    content: 
-      - A Circular Diffusion Model of Continuous-outcome Source Memory Retrieval (HTML)[https://link.springer.com/article/10.3758/s13423-020-01862-0]
-      - The Spatiotemporal Gradient of Intrusion Errors in Continuous-outcome Source Memory (PDF)[https://psyarxiv.com/kpwh4/]
+    content: |
+      - A circular diffusion model of continuous-outcome source memory retrieval Contrasting continuous and threshold accounts (HTML)[https://link.springer.com/article/10.3758/s13423-020-01862-0]
+      - The Spatiotemporal Gradient of Intrusion Errors in Continuous Outcome Source Memory: Source Retrieval is Affected by both Guessing and Intrusions (PDF)[https://psyarxiv.com/kpwh4/]
  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: PhD, Psychology
-        caption: 2018 - 2023 (Expected)
-        sub_title: The Univesity of Melbourne
+        title: The University of Melbourne
+        caption: 2018 - Present
+        sub_title: PhD, Psychology
         description: | # this will include new lines to allow paragraphs
           During my candidature, I learnt most of my key skills that I hope to apply and grow throughout my career. I also developed soft skills that I think will prove useful in meeting new challenges, such as working to deadline and managing expectations and morale. 
+
+          I spent time in my earlier years as a committee member of *Graduate Researchers in Psychological Sciences* (GRiPS) taking on roles such as *Secretary* and *President*, where I worked with my peers to foster a warm and collaborative network.
       - layout: left
-        title: Bachelor of Arts (Honours)
-        subtitle: The Univesity of Melbourne
+        title:
         caption: 2014 - 2017
-          
+        subtitle: Bachelor of Arts (Honours)
+  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Marking Support
-        sub_title: Teaching Assistant
-        caption: 2022
-        description: | # this will include new lines to allow paragraphs
-            Marked and provided feedback for a fourth-year level subject (Models of Psychological Processes), and facilitated dual-delivery of content to a mixed in-person and online classroom,
-      - layout: left
-        title: 
+        title: Melbourne School of Psychological Sciences
         sub_title: Teaching Assistant
         caption: 2022
         description: | # this will include new lines to allow paragraphs
