@@ -45,8 +45,8 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - [A Circular Diffusion Model of Continuous-outcome Source Memory Retrieval: Contrasting Continuous and Thresholded Accounts] (https://link.springer.com/article/10.3758/s13423-020-01862-0)
-      - [The Spatiotemporal Gradient of Intrusion Errors in Continuous-outcome Source Memory] (https://psyarxiv.com/kpwh4/)
+      - [A Circular Diffusion Model of Continuous-outcome Source Memory Retrieval: Contrasting Continuous and Thresholded Accounts](https://link.springer.com/article/10.3758/s13423-020-01862-0)
+      - [The Spatiotemporal Gradient of Intrusion Errors in Continuous-outcome Source Memory](https://psyarxiv.com/kpwh4/)
  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -66,8 +66,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Marking Support
-        sub_title: Teaching Assistant
+        title: Melbourne School of Psychological Sciences
+        sub_title: Marking Support
         caption: 2022
         description: | # this will include new lines to allow paragraphs
             Marked and provided feedback for a fourth-year level subject (Models of Psychological Processes), and facilitated dual-delivery of content to a mixed in-person and online classroom,
